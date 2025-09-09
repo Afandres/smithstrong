@@ -28,9 +28,9 @@
                         <label class="form-label">Género</label>
                         <select name="gender" class="form-select">
                             <option value="">—</option>
-                            <option value="male" @selected(old('gender', $client->gender) === 'Masculino')>Masculino</option>
-                            <option value="female" @selected(old('gender', $client->gender) === 'Femenino')>Femenino</option>
-                            <option value="other" @selected(old('gender', $client->gender) === 'Otro')>Otro</option>
+                            <option value="Masculino" @selected(old('gender', $client->gender) === 'Masculino')>Masculino</option>
+                            <option value="Femenino" @selected(old('gender', $client->gender) === 'Femenino')>Femenino</option>
+                            <option value="Otro" @selected(old('gender', $client->gender) === 'Otro')>Otro</option>
                         </select>
                     </div>
 
