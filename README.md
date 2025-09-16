@@ -36,3 +36,9 @@ Antes de instalar, asegúrate de tener en tu entorno:
 ```bash
 git clone https://github.com/tu-usuario/imc-app.git
 cd imc-app
+```
+
+## Integrantes
+- **Laura Katherine Vega**
+- **Estefania Jimenez**
+- **Andres Felipe Almario** 
